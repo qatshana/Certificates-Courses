@@ -7,7 +7,7 @@ Andrew Ng, Head Teaching Assistant - Kian Katanforoosh & Teaching Assistant - Yo
 
 deeplearning.ai
 
-https://www.coursera.org/account/accomplishments/records/NHQM89QRHDFQ
+https://www.coursera.org/account/accomplishments/certificate/H7QVGDE28K6L
 
 
 # Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
@@ -16,7 +16,7 @@ Andrew Ng, Head Teaching Assistant - Kian Katanforoosh & Teaching Assistant - Yo
 
 deeplearning.ai
 
-https://www.coursera.org/account/accomplishments/records/NVP295TYV7NP
+https://www.coursera.org/account/accomplishments/certificate/EC44RRN2MLKV
 
 
 # Structuring Machine Learning Projects
