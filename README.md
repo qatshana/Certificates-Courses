@@ -18,6 +18,15 @@ deeplearning.ai
 
 https://www.coursera.org/account/accomplishments/records/NVP295TYV7NP
 
+
+# Structuring Machine Learning Projects
+
+Andrew Ng, Head Teaching Assistant - Kian Katanforoosh & Teaching Assistant - Younes Bensouda Mourri
+
+deeplearning.ai
+
+https://www.coursera.org/account/accomplishments/certificate/YE3TBB66QTG4
+
 # Convolutional Neural Networks
 
 Andrew Ng, Head Teaching Assistant - Kian Katanforoosh & Teaching Assistant - Younes Bensouda Mourri
