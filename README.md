@@ -34,3 +34,7 @@ Andrew Ng, Head Teaching Assistant - Kian Katanforoosh & Teaching Assistant - Yo
 deeplearning.ai
 
 https://www.coursera.org/account/accomplishments/certificate/K4F526L8WRV5
+
+#Deep Learning, a 5-course specialization by deeplearning.ai on Coursera. Specialization Certificate earned on August 16, 2018
+
+https://www.coursera.org/account/accomplishments/specialization/certificate/L6C9FC465947
